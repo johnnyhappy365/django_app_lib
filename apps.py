@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class LibConfig(AppConfig):
-    name = 'lib'
+class Config(AppConfig):
+    name = "lib"
